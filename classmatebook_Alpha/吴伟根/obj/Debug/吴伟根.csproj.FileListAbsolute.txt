@@ -1,0 +1,14 @@
+F:\新建文件夹 (2)\吴伟根\吴伟根\bin\Debug\吴伟根.exe.config
+F:\新建文件夹 (2)\吴伟根\吴伟根\obj\Debug\吴伟根.Properties.Resources.resources
+F:\新建文件夹 (2)\吴伟根\吴伟根\obj\Debug\吴伟根.csproj.GenerateResource.Cache
+F:\新建文件夹 (2)\吴伟根\吴伟根\bin\Debug\吴伟根.exe
+F:\新建文件夹 (2)\吴伟根\吴伟根\bin\Debug\吴伟根.pdb
+F:\新建文件夹 (2)\吴伟根\吴伟根\obj\Debug\吴伟根.exe
+F:\新建文件夹 (2)\吴伟根\吴伟根\obj\Debug\吴伟根.pdb
+F:\新建文件夹 (2)\吴伟根\吴伟根\obj\Debug\吴伟根.csprojResolveAssemblyReference.cache
+F:\新建文件夹 (2)\吴伟根\吴伟根\obj\Debug\classmate.Formadd.resources
+F:\新建文件夹 (2)\吴伟根\吴伟根\obj\Debug\classmate.GFForm1.resources
+F:\新建文件夹 (2)\吴伟根\吴伟根\obj\Debug\吴伟根.WGform.resources
+F:\新建文件夹 (2)\吴伟根\吴伟根\obj\Debug\Tongxuelu.frmClassmateInformation.resources
+F:\新建文件夹 (2)\吴伟根\吴伟根\obj\Debug\Tongxuelu.frmModifyInformation.resources
+F:\新建文件夹 (2)\吴伟根\吴伟根\obj\Debug\teamwork1.frmSearch.resources
