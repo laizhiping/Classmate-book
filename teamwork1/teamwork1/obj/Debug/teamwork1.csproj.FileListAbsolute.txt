@@ -1,9 +1,0 @@
-G:\VS2015\teamwork1\teamwork1\bin\Debug\teamwork1.exe.config
-G:\VS2015\teamwork1\teamwork1\bin\Debug\teamwork1.exe
-G:\VS2015\teamwork1\teamwork1\bin\Debug\teamwork1.pdb
-G:\VS2015\teamwork1\teamwork1\obj\Debug\teamwork1.csprojResolveAssemblyReference.cache
-G:\VS2015\teamwork1\teamwork1\obj\Debug\teamwork1.Form1.resources
-G:\VS2015\teamwork1\teamwork1\obj\Debug\teamwork1.Properties.Resources.resources
-G:\VS2015\teamwork1\teamwork1\obj\Debug\teamwork1.csproj.GenerateResource.Cache
-G:\VS2015\teamwork1\teamwork1\obj\Debug\teamwork1.exe
-G:\VS2015\teamwork1\teamwork1\obj\Debug\teamwork1.pdb
