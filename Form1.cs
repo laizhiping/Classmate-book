@@ -15,7 +15,11 @@ namespace 吴伟根
     {
         
         
+<<<<<<< HEAD
         public Form1()//
+=======
+        public Form1()
+>>>>>>> upstream/wwg
         {
             InitializeComponent();
         }
